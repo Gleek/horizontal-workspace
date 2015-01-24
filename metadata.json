@@ -1,0 +1,7 @@
+{
+    "shell-version": ["3.6", "3.8", "3.10", "3.12","3.14"],
+    "uuid": "Horizontal_workspace@umarahmad.com",
+    "name": "Horizontal Workspace",
+    "description": "Horizontal Workspace for gnome-shell",
+    "url": "https://gleek.github.io"
+}
